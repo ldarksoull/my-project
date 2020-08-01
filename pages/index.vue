@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <div
-          to="/about"
+          to="about"
           class="button--green">about</div>
       </div>
     </div>
