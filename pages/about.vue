@@ -1,6 +1,8 @@
 <template>
   <div>
-    test
+    <h1 class="title">
+        my-project
+    </h1>
   </div>
 </template>
 <script>
