@@ -11,6 +11,7 @@
       <div class="links">
         <router-link to="about" class="button--green">about</router-link>
       </div>
+      <router-view></router-view>
     </div>
   </section>
 </template>
