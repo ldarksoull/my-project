@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <a
-          href="#" to="/about"
+          to="/about"
           class="button--green">about</a>
       </div>
     </div>
