@@ -9,7 +9,7 @@
         Nuxt.js project
       </h2>
       <div class="links">
-        <NuxtLink to="about" class="button--green">about</NuxtLink>
+        <NuxtLink to="/child/about" class="button--green">about</NuxtLink>
         <NuxtLink to="/" class="button--green">home</NuxtLink>
       </div>
       <div class="content">
