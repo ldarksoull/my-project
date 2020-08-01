@@ -9,9 +9,12 @@
         Nuxt.js project
       </h2>
       <div class="links">
-        <router-link to="about" class="button--green">about</router-link>
+        <NuxtLink to="about" class="button--green">about</NuxtLink>
+        <NuxtLink to="/" class="button--green">home</NuxtLink>
       </div>
-      <router-view></router-view>
+      <div class="content">
+        <NuxtChild />
+      </div>
     </div>
   </section>
 </template>
