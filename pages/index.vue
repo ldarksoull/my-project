@@ -9,9 +9,9 @@
         Nuxt.js project
       </h2>
       <div class="links">
-        <a
+        <div
           to="/about"
-          class="button--green">about</a>
+          class="button--green">about</div>
       </div>
     </div>
   </section>
